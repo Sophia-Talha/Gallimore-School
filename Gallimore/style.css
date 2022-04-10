@@ -1,0 +1,15 @@
+#video{
+    width:100%;
+    height:700px;
+    border:none;
+}
+#menu{
+    background-color: rgb(57, 76, 96);
+    color: rgb(249, 205, 255);
+}
+#Gallimore{
+    text-align: center;
+    font-family:Cursive;
+    color:gold;
+    background-color:rgb(108, 186, 182);
+}
